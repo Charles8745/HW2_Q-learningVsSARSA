@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.pytest_cache/
+
+# Data/Plots
+assets/*.gif
+assets/*.png
+
+# OS
+.DS_Store

@@ -7,8 +7,7 @@ venv/
 .pytest_cache/
 
 # Data/Plots
-assets/*.gif
-assets/*.png
+# (Allowing assets for README visualization)
 
 # OS
 .DS_Store
